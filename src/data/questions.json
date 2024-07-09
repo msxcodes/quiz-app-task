@@ -1,0 +1,48 @@
+[
+    {
+      "question": "Which of the following is NOT a valid data type in JavaScript?",
+      "options": [
+        "String",
+        "Number",
+        "Boolean",
+        "Function"
+      ],
+      "answer" : 3 
+    },
+    
+   
+    {
+      "question": "How do you iterate through an array in JavaScript?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "all of the above"
+      ],
+      "answer": 3
+    },
+    {
+        "question": "Which of the following is NOT a programming language?",
+        "options": ["Python", "HTML", "Java", "Ruby"],
+        "answer": 1
+      },{
+        "question": "What is the result of the expression '5 + '5' in JavaScript?",
+        "options": ["10", "'55'", "55", "Syntax Error"],
+        "answer": 1
+      },{
+        "question": "Which of the following is NOT a valid CSS selector?",
+        "options": ["#id", ".class", "$element", "*"],
+        "answer": 2
+      },{
+        "question": "Which of the following is NOT a JavaScript framework?",
+        "options": ["React", "Angular", "Vue", "Bootstrap"],
+        "answer": 3
+      },{
+        "question": "What is the output of the following code snippet?\n\n```javascript\nconsole.log(typeof null);\n```",
+        "options": ["undefined", "null", "object", "string"],
+        "answer": 2
+      }
+
+    
+  
+] 
